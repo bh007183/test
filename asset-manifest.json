@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/20-react-portfolio/static/css/main.5b76373c.css",
+    "main.js": "/20-react-portfolio/static/js/main.5e103926.js",
+    "static/js/787.28cb0dcd.chunk.js": "/20-react-portfolio/static/js/787.28cb0dcd.chunk.js",
+    "static/media/run-buddy.png": "/20-react-portfolio/static/media/run-buddy.4bbdd2e0ca21e15a84e7.png",
+    "static/media/screenshot.png": "/20-react-portfolio/static/media/screenshot.ed169137fb38b1de592e.png",
+    "static/media/nodesdemo.png": "/20-react-portfolio/static/media/nodesdemo.fcff8679b91970b1ed45.png",
+    "static/media/_DSC9074.jpg": "/20-react-portfolio/static/media/_DSC9074.0f43cb9421822a623baa.jpg",
+    "static/media/linkedin-logo-white.png": "/20-react-portfolio/static/media/linkedin-logo-white.0f1edd2b41da47aed027.png",
+    "static/media/weather-dashboard.png": "/20-react-portfolio/static/media/weather-dashboard.4a26ca1e46f3cb4c9375.png",
+    "static/media/daily-planner.png": "/20-react-portfolio/static/media/daily-planner.c4d51b7e36acf66867b7.png",
+    "static/media/github-10-512.png": "/20-react-portfolio/static/media/github-10-512.9cea0b641d834be91047.png",
+    "static/media/stackoverflow-512.png": "/20-react-portfolio/static/media/stackoverflow-512.ff0d2bf020b5319bb71d.png",
+    "static/media/note-taker.png": "/20-react-portfolio/static/media/note-taker.e9c8a8841736fe4ba032.png",
+    "index.html": "/20-react-portfolio/index.html",
+    "main.5b76373c.css.map": "/20-react-portfolio/static/css/main.5b76373c.css.map",
+    "main.5e103926.js.map": "/20-react-portfolio/static/js/main.5e103926.js.map",
+    "787.28cb0dcd.chunk.js.map": "/20-react-portfolio/static/js/787.28cb0dcd.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5b76373c.css",
+    "static/js/main.5e103926.js"
+  ]
+}
