@@ -1,0 +1,9 @@
+{
+	"name": "203data",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "b8e45a67-7d2b-4e9a-a0f6-d8cb425caf7c",
+		"tenantId": "63ce7d59-2f3e-42cd-a8cc-be764cff5eb6"
+	}
+}
