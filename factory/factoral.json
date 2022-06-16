@@ -1,0 +1,9 @@
+{
+	"name": "factoral",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "dc28012f-501f-46e8-a481-027f15476d84",
+		"tenantId": "63ce7d59-2f3e-42cd-a8cc-be764cff5eb6"
+	}
+}
